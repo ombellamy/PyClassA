@@ -1,3 +1,3 @@
 # PyClassA
 
-They are going to conflict
+this is the README.txt file... READ ME.
